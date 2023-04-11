@@ -1,0 +1,14 @@
+127.0.0.1 - - [30/Mar/2023:10:09:41 -0600] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:09:44 -0600] "GET /WebServiceRestJersey/WEB-INF/classes/org/service/rest/ServicioFormatos.java HTTP/1.1" 404 959
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:11:35 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:11:36 -0600] "GET /favicon.ico HTTP/1.1" 404 983
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:11:59 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:12:12 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:12:36 -0600] "GET /WebServiceRestJersey/servicio/formathtml HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:12:59 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:13:38 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:13:38 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:13:51 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 119
+127.0.0.1 - - [30/Mar/2023:10:25:45 -0600] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:26:07 -0600] "GET /WebServiceRestJersey/servicio/formatxml HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:10:26:13 -0600] "GET /WebServiceRestJersey/servicio/formatjson HTTP/1.1" 200 51

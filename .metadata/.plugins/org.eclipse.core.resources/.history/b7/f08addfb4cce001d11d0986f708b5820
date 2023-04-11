@@ -1,0 +1,5 @@
+package org.report.modelo;
+
+public class Report {
+
+}

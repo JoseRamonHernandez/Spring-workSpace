@@ -1,0 +1,5 @@
+package org.contact.dao;
+
+public class ContactDao {
+
+}

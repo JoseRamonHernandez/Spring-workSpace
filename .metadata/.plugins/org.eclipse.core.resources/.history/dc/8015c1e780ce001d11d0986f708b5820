@@ -1,0 +1,33 @@
+package org.report.service;
+
+import java.util.List;
+
+import org.report.modelo.Report;
+
+public class ReportServiceImpl implements ReportService {
+
+	@Override
+	public void addReport(Report report) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Report> lisReports() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Report getReportById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteReport(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.persona.dao;
+
+public interface IPersonaDao {
+
+}

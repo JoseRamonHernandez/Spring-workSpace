@@ -1,0 +1,5 @@
+package com.persona.modelo;
+
+public class Persona {
+
+}

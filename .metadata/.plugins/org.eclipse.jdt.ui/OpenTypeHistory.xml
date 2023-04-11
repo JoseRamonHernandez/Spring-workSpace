@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=SpringMVC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.contact.service{ContactService.java[ContactService" modifiers="513" timestamp="1680108470516"/>
+<typeInfo handle="=SpringMVC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.contact.dao{ContactDao.java[ContactDao" modifiers="513" timestamp="1680106784877"/>
+<typeInfo handle="=SpringMVCPractice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.report.dao{ReportDao.java[ReportDao" modifiers="513" timestamp="1680130609266"/>
+<typeInfo handle="=SpringMVCPractice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.report.service{ReportService.java[ReportService" modifiers="513" timestamp="1680129335316"/>
+<typeInfo handle="=SpringBootModuloThymeleafPractice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.report.service{IReportService.java[IReportService" modifiers="513" timestamp="1680132928429"/>
+</typeInfoHistroy>

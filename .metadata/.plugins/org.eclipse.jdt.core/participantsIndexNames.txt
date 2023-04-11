@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\joser\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\893552416.index
+\SpringMVC\target\generated-sources\annotations
+C:\Users\joser\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3298817318.index
+\SpringMVCPractice\src\main\java
+C:\Users\joser\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1686169984.index
+\SpringMVC\src\main\java
+C:\Users\joser\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3434407767.index
+\SpringMVCPractice\src\main\java

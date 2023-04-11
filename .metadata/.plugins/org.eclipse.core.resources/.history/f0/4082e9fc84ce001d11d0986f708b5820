@@ -1,0 +1,14 @@
+package org.report.dao;
+
+import java.util.List;
+
+import org.report.modelo.Report;
+
+public interface ReportDao {
+	
+	public void addReport(Report report);
+	public List<Report> lisReports();
+	public Report getReportById(Integer id);
+	public void deleteReport(Integer id);
+
+}

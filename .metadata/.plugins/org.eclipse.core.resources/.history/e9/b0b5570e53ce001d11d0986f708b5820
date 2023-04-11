@@ -1,0 +1,33 @@
+package org.contact.service;
+
+import java.util.List;
+
+import org.contact.modelo.Contact;
+
+public class ContactServiceImpl implements ContactService {
+
+	@Override
+	public void addContact(Contact contact) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Contact> listContacts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Contact getContactById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteContact(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

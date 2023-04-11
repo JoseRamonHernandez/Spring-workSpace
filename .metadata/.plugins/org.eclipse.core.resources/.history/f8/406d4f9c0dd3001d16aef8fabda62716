@@ -1,0 +1,5 @@
+package com.ejemplo.testbatch.configuration;
+
+public class BatchConfiguration {
+
+}

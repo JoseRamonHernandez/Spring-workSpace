@@ -1,0 +1,55 @@
+package org.service.rest;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+
+@Path("/servicio")
+public class ServicioFormatos {
+
+	//RECURSO O ENDPOINT
+	//SE LLAMA AL CORRER: http://localhost:7575/WebServiceRestJersey/servicio/formathtml
+	//FORMATO DE JSON: CONTRATOS DE INTERFAZ
+	//RECUROS: GET, PUT, DELETE, OPINION, ETC.
+	
+	@GET
+	@Path("/formathtml")
+	@Produces(MediaType.TEXT_HTML)// MediaType SE IMPORTA EL CORE
+	public String responseInHTML() {
+		String responseString = "<html>"
+				+"<title>REST</title>"
+				+"<head></head>"
+				+"<body>"
+				+"<h1>ID: 100</h1>"
+				+"<h2>NOMBRE: CARLOS</h2>"
+				+"<h3>TELEFONO: 2474758742</h3>"
+				+"</body>"
+				+"";
+	
+	return responseString;
+	
+	}
+	
+	//SE LLAMA AL CORRER: http://localhost:7070/WebServiceRestJersey/servicio/formatxml
+	
+	
+	@GET
+	@Path("/formatxml")
+	@Produces(MediaType.APPLICATION_XML)// MediaType SE IMPORTA EL CORE
+	public String responseInXML() {
+		String response = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+				
+				+"<Persona>"
+				+"<id>101<id>"
+				+"<nombre>JUAN<nombre>"
+				+"<telefono>15878515<telefono>"
+				+"</Persona>"
+				+"";
+	
+	return response;
+	
+	}
+}
+	
